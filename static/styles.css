@@ -1,0 +1,43 @@
+.avatar {
+    vertical-align: middle;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+  }
+ .carousel-item {
+   
+  max-width: 100%;
+  height: auto;
+        height: 500px; /* You must set a specified height */
+        background-position: center; /* Center the image */
+        background-repeat: no-repeat; /* Do not repeat the image */
+        background-size: cover; 
+        /* opacity: inherit; */
+        
+        padding-bottom: 300px;
+}
+.container{
+  padding-top: 30px;
+  padding-bottom: 100px;
+ 
+
+}
+.set{
+  background-color: rgb(52, 58, 64);
+}
+.card-img-top{
+  height: 40%;
+}
+.nav-link {
+  font-family: 'Monoton', cursive;
+  color: white;
+}
+.carousel-caption{
+  font-family: 'Bangers', cursive;
+  font-size: 30px;
+  color: black;
+}
+.page-footer{
+  background-color:  rgb(52, 58, 64);
+  color: white;
+}
